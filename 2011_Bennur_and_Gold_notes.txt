@@ -1,0 +1,7 @@
+--- --- --- Abstract --- --- --- 
+
+- Perceptual decisions which are used to select a particular action can appear to be sensory evidence being directly transformed into a motor plan when the relationship between the decision and the action used to report that decision is fixed and nondissociable (i.e. Left Saccade always means left choice, and Right Saccade always means right choice) 
+
+- To dissociate decision and motor processes, they record from single units in LIP when animals are doing a direction discrimination task which has a flexible association between a decision and the appropriate motor action to report that decision. 
+
+- 

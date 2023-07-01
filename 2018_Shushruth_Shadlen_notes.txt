@@ -1,0 +1,43 @@
+— — — Introduction — — — 
+
+- Decision Making has evolved as an efficient transformation from the perceived state of the world (in addition to internal factors), to a space of possible motor actions (what about non-motor actions?)
+    - Cisek & Kalaska, 2005
+    - Klaes et al. 2011
+    - Kubanek and Snyder, 2015
+
+- Gnadt and Andersen 1988 — developed the Memory Guided Saccade Task
+- Platt and Glimcher 1998 — majority of neurons in LIPv exhibit the property of having a maximal visual response to the same stimulus which elicits the strongest response during the interval of a spatial working memory task (MGS) 
+
+
+
+
+— — — Results — — — 
+
+- Weakness of the design is that there are two configurations presented in different blocks; the internal state of the animal is not kept consistent. 
+
+- Animals are encouraged to integrate motion information over 100s of milliseconds in order to extend the window in which decision formation can be interrogated. 
+
+- They show that the Firing Rates of neurons represent the state of the accumulated evidence only when the neurons belong to a pool representing the targets 
+
+	- is this accumulated evidence for the decision? Or for the saccade? As in this configuration the decision is tied to a specific spatial location with no flexibility. 
+
+
+Question: is it sound logic to fit a model to data, then using the model predict future events (such as choices in this case) and to then make a claim that the world operates in such a way which the model describes?
+          How does one ensure that the model isn't extremely good at generalizing across many different contexts? and what would happen if we trained a different model which predicts the future events better? Could we say then that the second model provides a more accurate description of the world than the first? 
+
+
+- Gnadt and Andersen 1988 ---  Barash et al. 1991a,b : LIP units can exhibit sensory-, memory-, and saccade-related responses. 
+
+- Fanini and Assad, 2009  --- LIP is modulated by direction of motion, even in naive monkeys. 
+                            - The latency of direction selectivity in naive monkeys is ~50ms after motion stimulus onset 
+
+- Swaminathan and Freedman, 2012 --- The latency for direction category selectivity was found to be ~100ms. 
+
+- In this study they find that the latency of direction selectivity in monkeys is 190ms after the onset of the dot stimulus 
+
+- Hanes & Schall, 1996; Mazurek et al. 2003; Hanks et al. 2014 --- Decision making is terminated when a threshold level is detected by some other circuit (where is this circuit thought to be?) 
+
+- In the Target-in-RF condition, if the correct target was in the RF and the animal saccades to that target then the neural responses, regardless of coherence level, coalese to a common firing right just before the saccade is modulated
+  This is not observed when the animal is saccading to the target which is not in the RF, nor is observed in the RDM-in-RF configuration, where the activity is seperate for the different coherences up until the saccade (this is for either choice). 
+
+- 
