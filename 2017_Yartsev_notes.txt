@@ -1,0 +1,11 @@
+Title: The emperor’s new wardrobe:Rebalancing diversity of animal models in neuroscience research
+
+Authors: Michael M. Yartsev
+
+-In the past a Neuroscientist would carefully define a scientific question, and then go seek out the model organism which is best suited 
+to answer that question. Now, it seems as if the questions have been constrained to a handful of model organisms, atop which sits the 
+mouse/rat, non-human primate, or humans themselves. 
+
+***Krogh's Principle:	"for a large number of problems there will be some animal of choice, or a few such animals, on which it can be most conveniently studied" 
+
+
