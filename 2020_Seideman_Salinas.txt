@@ -1,0 +1,16 @@
+Title: The spatial signal in area LIP is not an obligatory correlate of perceptual evidence during informed saccadic choices
+
+Authors: Joshua A Seideman, Terrence R Stanford, and Emilio Salinas 
+
+--- --- --- Abstract --- --- --- 
+
+- This task is an urgent version of the memory based RDM stimulus (non-urgent), and is designed such that there is no lag (delay) between the perceptual evaluation of the stimulus and the motor action reporting it. 
+
+- summarize line 11 - 15
+
+Conclusion: Evidence accumulation signals in LIP may correspond to a slower, post-decision shift of spatial attention from the where the stimulus is (RDM stimulus) to where the saccade will end up (target).  
+
+
+--- --- --- Introduction --- --- ---
+
+
