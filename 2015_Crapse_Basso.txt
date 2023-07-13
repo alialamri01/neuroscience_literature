@@ -1,0 +1,68 @@
+Title: Insights into decision making using choice probability 
+
+Authors: Trinity B. Crapse & Michele A. Basso 
+
+
+Big Question: How can action potentials which are generated from single neurons (as the basic unit), and groups of neurons elicit perceptions, emotions, decision, and actions. 
+
+This type of work has been done in the: 
+
+Auditory System: 
+
+    -Adrian (1928)
+    -Hartline and McDonald (1947)
+    -Barlow (1972)
+    -Kiang et al. (1965)
+    -Siebert (1970)
+
+Somatosensory System: 
+
+    -Mountcastle et al. (1967)
+    -Johansson and Vallbo (1979)
+
+Visual System:
+
+    -Hubel and Wiesel (1962)
+
+Motor System: 
+
+    -Evarts (1968)
+
+
+All of the aforementioned scientists (with the exception of Edward V. Evarts) looked how sensory inputs were correlated with individual neuronal activity, and little to no thought was given to how neuronal activity was correlated with output (behavior)... until...
+
+Green and Swets (1966) were the first to apply the signal detection theory of psychophysics to neurophsyiology. 
+
+This led to the major advance of directly linking modulations in neuronal activity to an animal's reported percept (e.g. Logothetis and Schall 1989):
+
+    The most notable example of this in our field is Newsome et al. (1989) when they found the neural correlates of a perceptual decision made about motion discrimination 
+
+
+Main Topics of this paper: 
+
+    1 - What brain regions contain neurons with activity correlated with perceptual decisions? 
+    
+    2 - How many neurons are required and how is their activity pooled to inform or reach a decision? 
+        -Question 2 assumes in the "pooling" bit that CP originates from feedforward mechanisms
+    
+    3 - What is the origin of CP 
+        -does it arise from feedforward pooling of neural activity? 
+        -from feedback mechanisms such as attentional allocation? 
+
+
+--- The Calculation of CP and Signal Detection Theory --- 
+
+-At its core, the resulting data from a paradigm like the RDM discrimination task is a distribution of firing rates associated with each of two choices, in resposne to varying strengths of sensory stimuli. 
+
+In Signal Detection Theory (SDT) there's always a "noise" distribution and a "signal" distribution
+
+    -The firing rate of neurons to a nonpreferred direction of motion is usually coined to be the "noise" distribution
+
+    -The firing rate of neurons to a preferred direction of motion is coined the "signal" distribution 
+
+-The ROC curve quantifies the differences betweeen the two distributions by indicating what the hit to false alarm ratio would be given a criterion 
+
+    - a criterion is a threshold which is set somewhere along either of the distributions
+
+  
+
