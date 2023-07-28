@@ -62,7 +62,29 @@ In Signal Detection Theory (SDT) there's always a "noise" distribution and a "si
 
 -The ROC curve quantifies the differences betweeen the two distributions by indicating what the hit to false alarm ratio would be given a criterion 
 
-    - a criterion is a threshold which is set somewhere along either of the distributions
+    - a criterion is a threshold which is set somewhere along either of the distributions, and tries to seperate one from the other 
 
-  
+    -ROC analysis looks at how much of each of the two distributions (noise and signal) exceed the criterion
+
+    -On a "signal" trial, if the neuron's activity exceeds the criterion then it's a "HIT" 
+    -On a "noise" trial,  if the neuron's activity exceeds the criterion then it's a "FALSE ALARM" 
+
+    *** To calculate the ROC Curve: 
+
+    _________________________________________________________________________________________________
+    
+    hits and false alarms are calculated at each criterion level, a process that is iterated from the minimum (0 sp/s) to the a maximum discharge rate. 
+    _________________________________________________________________________________________________
+
+    - if the criterion is placed way right of the distributions then the false alarm rate is extremely low, but so is the hit rate
+
+    - conversely, if the criterion is placed way left of the distributions then the hit rate is extremely high, but so is the false alarm rate 
+
+    - finding a criterion somewhere in the middle which increases the hit rate but decreases the false alarm rate is what we're after; and so we select a criterion based on the ratio between the two. 
+
+*** Integrating the area under the ROC curve (auROC) gives us a single-value ranging from 0 to 1 that quantifies the degree of separation between the two distributions. 
+
+    -0.5 = the two distributions overlap completely and an ideal observer would be able to determine from which distribution a discharge rate origniated 
+
+    -A Value of 1 indicates no overlap and an ideal observer could determine from which distribution the draw originated precisely 
 

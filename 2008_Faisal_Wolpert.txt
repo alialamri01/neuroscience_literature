@@ -1,0 +1,24 @@
+Title: Noise in the Nervous System 
+
+Authors: A. Aldo Faisal, Luc P.J. Selen, and Daniel M. Wolpert 
+
+Abstract: 
+
+- Noise is "random" disturbances of signals 
+
+- Here they review sources of noise in the nervous system (molecular to behavioral), and how noise contributes to trial-to-trial variability
+
+
+2 Sources of Noise: 
+
+    1- deterministic properties of the system 
+        * the initial state of the neural circuitry will vary at the start of each trial 
+        *variability in the response will be exacerbated if the system's dynamics are more sensitive to the initial conditions 
+
+    2- Noise 
+        *Random or irregular fluctuations or disturbances which are not part of a signal or which interfere with or obscure a signal 
+        *More generally, any distortions or additions which interfere with the transfer of information
+
+
+--- --- --- SENSORY NOISE --- --- --- 
+
