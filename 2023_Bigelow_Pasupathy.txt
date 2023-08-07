@@ -1,0 +1,31 @@
+Title: Dissociation in neuronal encoding of object versus surface motion in the primate brain 
+
+Authors: Anthony Bigelow, Taekjun Kim, Tomoyuki Namima, Wyeth Bair, Anitha Pasupathy 
+
+--- --- --- Abstract --- --- --- 
+
+
+
+
+=== === === Introduction === === ===
+
+-what does it mean for there to be a "dissociation between neural and perceptual responses" which indicate that there may be other areas which process motion perception 
+
+    - if neural recordings don't quite align (in whatever expected way) with the animals perception (and therefore behavior) then they conclude that there must be some other area which is computing this information or distorting this information in some way (but not necessarily distorting in a bad way) 
+
+
+Motion Processing Systems (hypthesized): 
+
+-Braddick: 
+    "short-range" process which relies on lower visual areas, and "long-range" processes which rely on higher order visual areas. 
+
+-Sperling & Colleagues: 
+    "three-system theory"
+    1- a low-level / first-order (luminance based)
+    2- a second-order (texture based) system
+    3- a higher-order object-/feature-based system 
+
+
+Dissociation between Neural responses and Perceptual reports when: 
+
+    - local, drifting motion within a static aperture is pitted against a long-range object motion with large spatial displacements

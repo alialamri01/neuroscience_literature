@@ -8,6 +8,10 @@
 - Gnadt and Andersen 1988 — developed the Memory Guided Saccade Task
 - Platt and Glimcher 1998 — majority of neurons in LIPv exhibit the property of having a maximal visual response to the same stimulus which elicits the strongest response during the interval of a spatial working memory task (MGS) 
 
+Question: CAN "ABSTRACT" REPRESENTATIONS OF DECISION RELEVANT INFORMATION, INDEPENDENT OF THE POSSIBLE MOTOR ACTIONS, COEXIST WITH REPRESENTATIONS OF DECISIONS AS INTENDED ACTIONS? 
+
+  - if so, do these "abstract" representations even play a role in the decision-making process? 
+
 
 
 
@@ -15,7 +19,7 @@
 
 - Weakness of the design is that there are two configurations presented in different blocks; the internal state of the animal is not kept consistent. 
 
-- Animals are encouraged to integrate motion information over 100s of milliseconds in order to extend the window in which decision formation can be interrogated. 
+- Animals are encouraged to integrate motion information over 100s of milliseconds in order to extend the window in which decision formation can be integrated. 
 
 - They show that the Firing Rates of neurons represent the state of the accumulated evidence only when the neurons belong to a pool representing the targets 
 
